@@ -1,0 +1,8 @@
+ros-indigo-cob-gazebo-plugins (0.6.1-0saucy) saucy; urgency=high
+
+  * new gazebo_ros_control_plugin supporting multiple hardwareinterfaces and switch on controller_switching
+  * Contributors: ipa-fxm
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Thu, 11 Dec 2014 23:00:00 -0000
+
+

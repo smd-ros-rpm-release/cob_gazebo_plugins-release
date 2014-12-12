@@ -1,0 +1,21 @@
+ros-indigo-cob-gazebo-ros-control (0.6.1-0trusty) trusty; urgency=high
+
+  * Update README.md
+  * Update README.md
+  * Update README.md
+  * Update README.md
+  * Update README.md
+  * enable joint filtering for multi_hwi_gazebo plugin
+  * remove support for X_PID control_methods for simplicity (obsolete anyway)
+  * unify ROS STREAM output
+  * ignore 'robotSimType'
+  * Update README.md
+  * Update README.md
+  * add README for new plugin
+  * correctly reset all interfaces in doSwitchHWInterface
+  * new gazebo_ros_control_plugin supporting multiple hardwareinterfaces and switch on controller_switching
+  * Contributors: Felix Messmer, ipa-fxm
+
+ -- Felix Messmer <fxm@ipa.fhg.de>  Thu, 11 Dec 2014 23:00:00 -0000
+
+
